@@ -1,4 +1,12 @@
-## Hi there 👋
+<h1>Hi, I'm Alessandra! <br/><a href="https://www.linkedin.com/in/alessandraalvarado/"> Business Data Analytics | AI in Business | Arizona State University Student </a>
+
+<h2>👨‍💻 AI and Machine Learning Projects:</h2>
+
+- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+
+[twitter]: https://twitter.com/joshmadakor
+[linkedin]: https://linkedin.com/in/alessandraalvarado/
 
 <!--
 **alessandraalvarado/alessandraalvarado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
